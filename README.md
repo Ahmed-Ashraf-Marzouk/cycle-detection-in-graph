@@ -77,7 +77,8 @@ action > q
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please feel free to submit a pull request.
-
+<!-- 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+ -->
